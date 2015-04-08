@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans,
+
+This is my hello-world tutorial's proper README file.
